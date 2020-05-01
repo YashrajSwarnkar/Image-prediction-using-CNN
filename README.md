@@ -1,10 +1,11 @@
 # INFO7390-Prediction_of_Image_using_CNN
 Required libraries:
-1. Keras
-2. ZipFile
-3. Numpy
-4. Pandas
-5. Sklearn
+
+- Keras
+- ZipFile
+- Numpy
+- Pandas
+- Sklearn
 
 # Project Workflow
 
