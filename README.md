@@ -1,22 +1,10 @@
 # INFO7390-Prediction_of_Image_using_CNN
 Required libraries:
-Install Keras from PyPI (recommended):
-Note: These installation steps assume that you are on a Linux or Mac environment. If you are on Windows, you will need to remove sudo to run the commands below.
-sudo pip install keras
-If you are using a virtualenv, you may want to avoid using sudo:
-pip install keras
-Alternatively: install Keras from the GitHub source:
-First, clone Keras using git:
-git clone https://github.com/keras-team/keras.git
-Then, cd to the Keras folder and run the install command:
-cd keras
-sudo python setup.py install
-Install Tensorflow
-To install the current release, which includes support for CUDA-enabled GPU cards (Ubuntu and Windows):
-$ pip install tensorflow
-A smaller CPU-only package is also available:
-$ pip install tensorflow-cpu
-To update TensorFlow to the latest version, add --upgrade flag to the above commands.
+1. Keras
+2. ZipFile
+3. Numpy
+4. Pandas
+5. Sklearn
 
 # Project Workflow
 
