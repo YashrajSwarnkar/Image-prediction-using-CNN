@@ -7,6 +7,7 @@ Required libraries:
 - Pandas
 - Sklearn
 
+
 # Project Workflow
 
 - Import the required Python libaries at one place
