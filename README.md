@@ -1,6 +1,7 @@
 # INFO7390-Prediction_of_Image_using_CNN
 Required libraries:
 
+- TensorFlow
 - Keras
 - ZipFile
 - Numpy
